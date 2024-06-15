@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+        "asyncpg",
+        "atar",
+        "autoflush",
+        "backref",
+        "fastapi",
+        "healthchecker",
+        "ilike",
+        "libgravatar",
+        "onupdate",
+        "passlib",
+        "poolclass",
+        "pydantic",
+        "remcontact",
+        "sessionmaker",
+        "sessonmanager",
+        "sqlalchemy",
+        "starlette",
+        "todos",
+        "upcontact"
+    ]
+}
